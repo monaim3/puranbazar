@@ -1,0 +1,19 @@
+.carousel-caption {
+    right: 15%;
+    top: 35%;
+    bottom: 1.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+}
+.carousel-item img{
+    height: 100vh;
+}
+.carousel-dark .carousel-caption {
+    color: #fff!important;
+    font-size: 28px;
+}
+.carousel-dark .carousel-indicators [data-bs-target] {
+    background-color: #d24141;
+}
