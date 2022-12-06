@@ -12,8 +12,7 @@ const AllCategoryDeatils = ({singleItem,handleWishlist}) => {
        },[singleItem.email])
     return (
         <>
-            <div className="card w-80 bg-base-100 shadow-xl " data-aos="fade-right"   data-aos-easing="linear"
-        data-aos-duration="1000">
+            <div className="card w-80 bg-base-100 shadow-xl " >
                 <button onClick={()=>handleWishlist(singleItem)} className='ml-auto p-2'><i class="fa-solid fa-heart text-3xl  text-rose-600" title="wishList"></i></button>
               <figure className="px-10 lg:pt-10">
                 <PhotoProvider>
