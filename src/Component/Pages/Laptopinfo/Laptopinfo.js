@@ -15,8 +15,7 @@ const Laptopinfo = () => {
     })
     return (
         <div>
-            <div className="teamcard grid lg:grid-cols-3 gap-5 p-12" data-aos="fade-down"
-        data-aos-duration="1000">
+            <div className="teamcard grid lg:grid-cols-3 gap-5 p-12" >
             <div className="card w-80 bg-base-100 shadow-xl " >
             
             <figure className="px-10 lg:pt-10">

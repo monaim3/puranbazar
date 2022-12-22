@@ -33,29 +33,33 @@ const Banner = () => {
   </div>
 
 
-  <div className="carousel-inner relative w-full overflow-hidden ">
+  <div className="carousel-inner relative w-full overflow-hidden bg-blend-darken">
 
-    <div className="carousel-item active relative float-left w-full">
+    <div className="bg-gradient-to-r from-gray-500 via-purple-500 to-black carousel-item active relative float-left w-full ">
       <img
         src={banner1}
-        className="block w-full"
-        alt="Motorbike Smoke"
+        className="block w-full  mix-blend-overlay"
+        alt="Laptop"
       />
-      <div className="carousel-caption text-white hidden md:block absolute text-center">
-        <h5 className="text-3xl font-bold">Best quality output for world market</h5>
-        <p className='text-base font-semibold mt-4'>Some representative placeholder content for the first slide.</p>
+      <div className="carousel-caption text-white hidden md:block absolute text-center" data-aos="fade-right"   data-aos-easing="linear"
+        data-aos-duration="1000">
+        <h5 className="text-3xl font-bold ">Don't Play With Fire, Play With Ecommerce.</h5>
+        <h5 className="text-2xl font-bold mt-2 ">Best quality output for world market</h5>
+        <p className='text-base font-semibold mt-4 '>Some representative placeholder content for the first slide.</p>
       </div>
     </div>
 
-    <div className="carousel-item relative float-left w-full">
+    <div className="bg-gradient-to-r from-gray-500 via-purple-500 to-black carousel-item relative float-left w-full ">
       <img
         src={banner3}
-        className="block w-full"
+        className="block w-full banneritem mix-blend-overlay "
         alt="Mountaintop"
       />
-      <div className="carousel-caption text-white hidden md:block absolute text-center">
-      <h5 className="text-3xl font-bold">Best quality output for world market</h5>
-        <p className='text-base font-semibold mt-4'>Some representative placeholder content for the first slide.</p>
+      <div className="carousel-caption text-white hidden md:block absolute text-center " data-aos="fade-right"   data-aos-easing="linear"
+        data-aos-duration="1000">
+      <h5 className="text-3xl font-bold 	">Life is all about E-commerce around you</h5>
+        <h5 className="text-2xl font-bold mt-2 	">Best quality output for world market</h5>
+        <p className='text-base font-semibold mt-4 	'>Some representative placeholder content for the first slide.</p>
       </div>
     </div>
 

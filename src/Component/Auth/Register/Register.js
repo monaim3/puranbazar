@@ -179,7 +179,7 @@ const Register = () => {
 
 
 
-                    <button type="submit" className="w-full px-6 py-2.5 bg-orange-400 text-white font-medium
+                    <button type="submit" className="w-full px-6 py-2.5 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-white font-medium
 text-xs
 leading-tight
 uppercase
@@ -202,7 +202,7 @@ ease-in-out">Register</button>
                 <h3>OR</h3>
                 <hr className='h-1 bg-orange-400 mt-4 w-[10%]'></hr>
             </div>
-            <div onClick={handlegoogleSignIN} className="cursor-pointer signWithGoogle bg-orange-400 rounded-lg flex justify-around mx-auto w-40 border p-4 mt-2">
+            <div onClick={handlegoogleSignIN} className="cursor-pointer signWithGoogle bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-lg flex justify-around mx-auto w-40 border p-4 mt-2">
                 <img className="w-[20%]" src={googleImg} alt="" />
                 <h3 className='ml-4 text-2xl font-semibold'>Google </h3>
             </div>

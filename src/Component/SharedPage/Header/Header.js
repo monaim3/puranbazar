@@ -5,6 +5,8 @@ import { AuthContex } from '../../UserContext/UserContext';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons'
 import Dashboard from './../../Pages/Dashboard/Dashboard/Dashboard';
+import './Header.css'
+import logo from '../../assest/logo (1).png'
 const Header = () => {
     const { user, logOut } = useContext(AuthContex)
     const handlelogOut = () => {
@@ -32,7 +34,7 @@ const Header = () => {
 
                     </ul>
                 </div>
-                <Link to="/" className="btn bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-xl">Puran-Bazar</Link>
+                <Link to="/" className=""><img className='logo' style={{width:'117px', height:'30px'}} src={logo} alt="logo" /></Link>
             </div>
 
 

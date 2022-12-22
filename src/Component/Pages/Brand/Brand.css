@@ -1,0 +1,9 @@
+li.react-multi-carousel-item.react-multi-carousel-item--active.carousel-item-padding-40-px {
+    width: 0!important;
+}
+.react-multiple-carousel__arrow--left {
+    left: calc(-1% + 1px)!important;
+}
+.react-multiple-carousel__arrow--right {
+    right: calc(-1% + 1px)!important;
+}

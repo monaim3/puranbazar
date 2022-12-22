@@ -102,7 +102,7 @@ const Login = () => {
                             password?
                         </button>
                     </div>
-                    <button type="submit" className="w-full px-6 py-2.5 bg-orange-400 text-white font-medium
+                    <button type="submit" className="w-full px-6 py-2.5 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-white font-medium
       text-xs
       leading-tight
       uppercase

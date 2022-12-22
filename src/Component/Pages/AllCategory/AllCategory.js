@@ -107,7 +107,7 @@ const AllCategory = () => {
           <div className="modal modal-bottom sm:modal-middle">
             <div className="modal-box">
               <div className="modal-action">
-                <label htmlFor={`buynow${modalitem._id}`} className="btn">
+                <label htmlFor={`buynow${modalitem._id}`} className="btn bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
                   <i class="fa-solid fa-xmark"></i>
                 </label>
               </div>
@@ -270,7 +270,7 @@ const AllCategory = () => {
       w-full
       px-6
       py-2.5
-      bg-blue-600
+      bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500
       text-white
       font-medium
       text-xs
@@ -278,9 +278,7 @@ const AllCategory = () => {
       uppercase
       rounded
       shadow-md
-      hover:bg-blue-700 hover:shadow-lg
-      focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0
-      active:bg-blue-800 active:shadow-lg
+    
       transition
       duration-150
       ease-in-out"
