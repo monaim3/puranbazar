@@ -1,0 +1,104 @@
+[
+    {
+        "name": "HP 15s-du1116TU Pentium Silver N5030 15.6 HD Laptop",
+        "resaleprice": "300",
+        "location": "Rajshahi",
+        "originalPrice": "600",
+        "yearofUsed": "2",
+        "timeposted": "24/11/2022",
+        "category": "HP",
+        "description": "3.00 GHz up to 4.10 GHz",
+        "img": "https://i.ibb.co/ZfGXcmz/15s-du1116tu-01-500x500.jpg"
+    },
+    {
+        "name": "Asus Vivobook E410MA Celeron N4020 14 HD Laptop",
+        "resaleprice": "400",
+        "location": "Vola",
+        "originalPrice": "800",
+        "yearofUsed": "1",
+        "category": "ASUS",
+        "timeposted": "24/11/2022",
+        "description": "1.10 GHz up to 2.80 GHz",
+        "img": "https://i.ibb.co/n8MzHh3/e410ma-01-500x500.jpg"
+    },
+    {
+        "name": "Dell Latitude 14 3420 Core i3 11th Gen 14 FHD Laptop",
+        "resaleprice": "400",
+        "location": "Borguna",
+        "originalPrice": "850",
+        "yearofUsed": "1",
+        "category": "DELL",
+        "timeposted": "24/11/2022",
+        "description": "2.00 GHz up to 3.70 GHz",
+        "img": "https://i.ibb.co/b6Yt9Dq/latitude-3420-01-500x500.jpg"
+    },
+    {
+        "name": "HP 250 G8 Core i3 11th Gen 15.6 FHD Laptop",
+        "resaleprice": "200",
+        "location": "Dhaka",
+        "originalPrice": "500",
+        "yearofUsed": "3",
+        "category": "HP",
+        "timeposted": "24/11/2022",
+        "description": "3.00 GHz up to 4.10 GHz ",
+        "img": "https://i.ibb.co/4KmczY9/250-g8-01-500x500.jpg"
+    },
+    {
+        "name": "HP 15s-eq2171AU Ryzen 3 5300U 15.6 FHD Laptop",
+        "resaleprice": "250",
+        "location": "Bogra",
+        "originalPrice": "650",
+        "yearofUsed": "1",
+        "category": "HP",
+        "timeposted": "24/11/2022",
+        "description": "2.6GHz up to 3.8GHz",
+        "img": "https://i.ibb.co/P1WZ2bb/hp-15s-spruce-blue-02-500x500.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15 3511 Core i3 11th Gen 15.6 FHD Laptop",
+        "resaleprice": "310",
+        "location": "Magura",
+        "originalPrice": "620",
+        "yearofUsed": "2",
+        "category": "DELL",
+        "timeposted": "24/11/2022",
+        "description": "3.00 GHz up to 4.10 GHz",
+        "img": "https://i.ibb.co/fqC4QPC/inspiron-15-3511-88989-500x500.jpg"
+    },
+   
+    {
+        "name": "Dell Latitude 5320 Core i7 11th Gen 13.3 FHD Laptop",
+        "resaleprice": "700",
+        "location": "Dinajpur",
+        "originalPrice": "1000",
+        "yearofUsed": "2",
+        "category": "DELL",
+        "timeposted": "24/11/2022",
+        "description": "3.0 GHz up to 4.8 GHz",
+        "img": "https://i.ibb.co/tZmpc2n/latitude-5320-01-500x500.webp"
+    },
+    {
+        "name": "Asus Vivobook X515MA Celeron N4020 15.6 HD Laptop",
+        "resaleprice": "600",
+        "location": "Munshigonj",
+        "originalPrice": "1200",
+        "yearofUsed": "2",
+        "category": "ASUS",
+        "timeposted": "24/11/2022",
+        "description": "1.10 GHz up to 2.80 GHz",
+        "img": "https://i.ibb.co/Pwckw8B/vivobook-15-x515ea-01-500x500.jpg"
+    },
+   
+    {
+        "name": "ASUS VivoBook 15 X1500EA Core i3 11th Gen 512GB SSD 15 FHD Laptop",
+        "resaleprice": "300",
+        "location": "Thakurga",
+        "originalPrice": "700",
+        "yearofUsed": "2",
+        "category": "ASUS",
+        "timeposted": "24/11/2022",
+        "description": "3.00 GHz up to 4.10 GHz ",
+        "img": "https://i.ibb.co/86CLmjK/x1500ea-01-500x500.webp"
+    }
+
+]
